@@ -1,0 +1,37 @@
+1- Compréhension des Technologies :
+	-Starlink : 
+		Analyse approfondie de la technologie satellite, 
+		des satellites en orbite basse, et des terminaux utilisateur.
+
+	Quoi? Projet d'acces a l'Internet par satellite a haut debit 
+	Qui? invente dans SpaceX par Elon Mask
+	Ou? USA
+	Comment? Deploiement d'une constellation de pleusieurs satellites sur orbite terrestre basse (LEO)
+	Quand? -2015: Annonce
+		-2018: Lancement des sources technologiques
+		-2019: Deploiement
+		-2020: Mise en Service
+		-2025: 12000 SAT 
+		-Future terme courte 42000 SAT
+	Pourquoi? Latence(GEO SAT) ~ 600ms >  Latence(LEO SAT) ~ 20ms (25<l<35)
+
+La technologie satellite de Starlink est basée sur une constellation de satellites en orbite basse qui fournissent une connectivité Internet à haut débit à des utilisateurs finaux dans le monde entier. 
+Les satellites sont équipés de panneaux solaires pour fournir de l'énergie, ainsi que de systèmes de propulsion pour maintenir leur orbite et se déplacer en cas de besoin.
+
+Les satellites de Starlink sont équipés de plusieurs antennes à réseau phasé pour communiquer avec les stations terrestres et les autres satellites de la constellation. 
+Ces antennes sont capables de suivre les utilisateurs finaux en mouvement et de fournir une connectivité Internet à faible latence.
+
+Les terminaux utilisateur de Starlink sont des antennes paraboliques qui se connectent aux satellites en orbite basse pour fournir une connectivité Internet à haut débit. 
+Ces antennes sont conçues pour être faciles à installer et à utiliser, et peuvent être installées à l'extérieur des bâtiments ou sur des véhicules en mouvement.
+
+La technologie de Starlink est conçue pour fournir une connectivité Internet à haut débit à des utilisateurs finaux dans des zones rurales et éloignées qui n'ont pas accès à des services Internet fiables. 
+La conception de la constellation de satellites en orbite basse permet de fournir une connectivité à faible latence, ce qui est important pour les applications en temps réel telles que les jeux en ligne et les appels vidéo.
+
+En résumé, la technologie satellite de Starlink repose sur une constellation de satellites en orbite basse équipés d'antennes à réseau phasé pour communiquer avec les stations terrestres et les terminaux utilisateur. 
+Les terminaux utilisateur sont des antennes paraboliques conçues pour être faciles à installer et à utiliser, 
+et la conception de la constellation permet de fournir une connectivité Internet à haut débit et à faible latence à des utilisateurs finaux dans le monde entier.
+	
+
+
+
+

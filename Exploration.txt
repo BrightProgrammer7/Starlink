@@ -1,0 +1,30 @@
+Starlink: Exploration de la topologie du réseau satellite, des stations terrestres, et cartographie des zones de couverture;
+
+Starlink prévoit le lancement de 12000 puis 42000 mini satellites pour offrir un service internet à haut débit partout sur la terre, 
+mais surtout destiné aux zones les moins densément peuplées n’étant peu ou pas desservies par un accès internet classique. 
+
+Le réseau satellite de Starlink est une constellation de plusieurs milliers de satellites de télécommunication positionnés sur une orbite terrestre basse.
+La constellation initiale comportera 1600 satellites pour affiner les techniques à mettre en œuvre avant le déploiement d’une constellation complète.
+
+La topologie du réseau satellite de Starlink est conçue pour fournir une connectivité Internet mondiale en utilisant une constellation de satellites en orbite basse. 
+Ces satellites communiquent avec des stations terrestres pour acheminer le trafic Internet vers et depuis les utilisateurs finaux. 
+La constellation de satellites est conçue pour fournir une couverture mondiale, 
+avec une attention particulière portée aux zones rurales et éloignées qui n'ont pas accès à des services Internet fiables et rapides.
+
+La cartographie des zones de couverture de Starlink est en constante évolution à mesure que de nouveaux satellites sont déployés et que le réseau se développe. 
+Les stations terrestres sont positionnées pour assurer une connectivité efficace avec les satellites en orbite, 
+et la conception du réseau vise à minimiser les retards de transmission, offrant ainsi une connectivité à faible latence pour les utilisateurs finaux.
+
+La construction du segment spatial du système Iridium de nouvelle génération d’Iridium, qui comprend soixante-six satellites LEO et neuf satellites de rechange, 
+est presque terminée avec le lancement des dix derniers satellites en orbite en janvier 2019. De plus, SpaceX a conçu le plan Starlink début 2015, 
+qui était essentiellement reconnu comme un système de liaison via des satellites. 
+
+Depuis mars 2021, les documents publics de SpaceX auprès de la Federal Communications Commission (FCC) n'identifient que quelques paramètres de constellation spécifiques 
+et précisent que chaque satellite disposera de quatre liaisons laser, mais ne font aucune mention d'un mécanisme d'attribution des connexions de liaisons inter-satellites. 
+En tant que plus grande constellation en orbite terrestre basse (LEO) au monde à ce jour, avec des milliers de satellites lancés au cours de la seule première phase, 
+le déploiement de la technologie de liaison interstellaire offre le potentiel de réduire la congestion du réseau au sol et de minimiser le besoin de stations au sol.
+
+Il est évident que la technologie des microsatellites a tendance à être pratique, 
+et le fait qu’un grand nombre de composants matures de qualité commerciale soient utilisés pour construire des microsatellites conduit à son cycle de développement court et à son faible coût. 
+Le système de constellation LEO a atteint son apogée de développement en raison de la forte demande de communications par satellite à haute capacité et à faible latence. 
+Pour le développement des prochaines méga-constellations LEO, il est donc crucial de synthétiser les lois de variation des LISL dans différentes situations et d'optimiser la topologie statique de la constellation.
